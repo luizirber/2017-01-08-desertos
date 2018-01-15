@@ -1,0 +1,58 @@
+id,meio,nome,cidade,regiao_metropolitana,uf,estado,regiao,pais,fonte,cidade_id_ibge
+id2314,Jornal,CORREIO DO VALE,ALVORADA D'OESTE,n/d,RO,Rondônia,Norte,Brasil,Secom/PR,1100346
+id1208,Jornal,CORREIO DA FRONTEIRA,AMAMBAI,n/d,MS,Mato Grosso do Sul,Centro-Oeste,Brasil,Secom/PR,5000609
+id1209,Jornal,A GAZETA,AMAMBAI,n/d,MS,Mato Grosso do Sul,Centro-Oeste,Brasil,Secom/PR,5000609
+id5157,Jornal,PANORAMA PRADENSE,ANTÔNIO PRADO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4300802
+id5696,Jornal,BIGUAÇU EM FOCO,BIGUAÇU,n/d,SC,Santa Catarina,Sul,Brasil,Central de Diários,4202305
+id5563,Jornal,JORNAL CAMPOS DE JORDÃO E CIA,CAMPOS DO JORDÃO,n/d,SP,São Paulo,Sudeste,Brasil,Adjori-SP,3509700
+id4136,Jornal,FOLHA DE ELIAS FAUSTO,ELIAS FAUSTO,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3514908
+id2323,Jornal,O CONE SUL,ESPIGÃO D'OESTE,n/d,RO,Rondônia,Norte,Brasil,Secom/PR,1100098
+id5218,Jornal,A VOZ,ESTÂNCIA VELHA,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4307609
+id5230,Jornal,TRIBUNA GETULIENSE,GETÚLIO VARGAS,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4308904
+id2823,Online,CLASSIFICADOS MERCOSUL,HERVAL D'OESTE,n/d,SC,Santa Catarina,Sul,Brasil,Secom/PR,4206702
+id2824,Online,CLASSIFICADOS MERCOSUL (INTERNACIONAL),HERVAL D'OESTE,n/d,SC,Santa Catarina,Sul,Brasil,Secom/PR,4206702
+id3010,Jornal,JORNAL EXPRESSO,HERVAL D'OESTE,n/d,SC,Santa Catarina,Sul,Brasil,Secom/PR,4206702
+id3011,Jornal,PAUTA DA SEMANA,HERVAL D'OESTE,n/d,SC,Santa Catarina,Sul,Brasil,Secom/PR,4206702
+id5418,Jornal,JORNAL EXPRESSO,HERVAL D'OESTE,n/d,SC,Santa Catarina,Sul,Brasil,Adjori-Sc,4206702
+id5727,Jornal,JORNAL DA MANHÃ,IJUÍ,n/d,RS,Rio Grande do Sul,Sul,Brasil,Central de Diários,4310207
+id150,Jornal,O IMPARCIAL,LUÍS EDUARDO MAGALHÃES,n/d,BA,Bahia,Nordeste,Brasil,Secom/PR,2919553
+id151,Jornal,OESTE SEMANAL,LUÍS EDUARDO MAGALHÃES,n/d,BA,Bahia,Nordeste,Brasil,Secom/PR,2919553
+id152,Jornal,NOTICIAS DO OESTE,LUÍS EDUARDO MAGALHÃES,n/d,BA,Bahia,Nordeste,Brasil,Secom/PR,2919553
+id153,Jornal,CLASSE A,LUÍS EDUARDO MAGALHÃES,n/d,BA,Bahia,Nordeste,Brasil,Secom/PR,2919553
+id4973,Online,JDADOS,MACAPÁ,n/d,AP,Amapá,Norte,Brasil,Atlas da Notícia,1600303
+id4328,Jornal,O IMPACTO,MOGI MIRIM,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3530805
+id4329,Jornal,O POPULAR,MOGI MIRIM,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3530805
+id4330,Jornal,A COMARCA,MOGI MIRIM,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3530805
+id5857,Jornal,TRIBUNA DO CRICARÉ,SÃO MATEUS,n/d,ES,Espírito Santo,Sudeste,Brasil,ANJ,3204906
+id5636,Jornal,A NOTÍCIA,NOVA VENÉCIA,n/d,ES,Espírito Santo,Sudeste,Brasil,Central de Diários,3203908
+id2118,Jornal,EXPRESSÃO DO POVO,PARATY,n/d,RJ,Rio de Janeiro,Sudeste,Brasil,Secom/PR,3303807
+id2119,Jornal,JORNAL DE PARATY,PARATY,n/d,RJ,Rio de Janeiro,Sudeste,Brasil,Secom/PR,3303807
+id710,Jornal,TRIBUNA POPULAR,PASTOS BONS,n/d,MA,Maranhão,Nordeste,Brasil,Secom/PR,2108009
+id2853,Online,JORNAL DO COMERCIO,BALNEÁRIO PIÇARRAS,n/d,SC,Santa Catarina,Sul,Brasil,Secom/PR,4212809
+id3113,Jornal,JORNAL ECO,BALNEÁRIO PIÇARRAS,n/d,SC,Santa Catarina,Sul,Brasil,Secom/PR,4212809
+id3114,Jornal,JORNAL DO COMERCIO,BALNEÁRIO PIÇARRAS,n/d,SC,Santa Catarina,Sul,Brasil,Secom/PR,4212809
+id1371,Jornal,O POVO,POXORÉU,n/d,MT,Mato Grosso,Centro-Oeste,Brasil,Secom/PR,5107008
+id2654,Jornal,TRIBUNA DE RESTINGA,RESTINGA SÊCA,n/d,RS,Rio Grande do Sul,Sul,Brasil,Secom/PR,4315503
+id2655,Jornal,INTEGRAÇAO,RESTINGA SÊCA,n/d,RS,Rio Grande do Sul,Sul,Brasil,Secom/PR,4315503
+id5292,Jornal,INTEGRAÇÃO REGIONAL,RESTINGA SÊCA,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4315503
+id5293,Jornal,A FOLHA,RESTINGA SÊCA,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4315503
+id5291,Jornal,FOLHA RELVADENSE,RELVADO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4315453
+id3338,Online,SBNOTICIAS,SANTA BÁRBARA D'OESTE,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3545803
+id3339,Online,DIARIO DE SANTA BARBARA,SANTA BÁRBARA D'OESTE,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3545803
+id4457,Jornal,DIARIO DE SANTA BARBARA,SANTA BÁRBARA D'OESTE,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3545803
+id4458,Jornal,JORNAL DE BAIRRO EM BAIRRO ZONA SUL,SANTA BÁRBARA D'OESTE,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3545803
+id4459,Jornal,A FOLHA,SANTA BÁRBARA D'OESTE,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3545803
+id4460,Jornal,JORNAL DE BAIRRO EM BAIRRO,SANTA BÁRBARA D'OESTE,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3545803
+id4461,Jornal,JORNAL DE BAIRRO EM BAIRRO ZONA LESTE,SANTA BÁRBARA D'OESTE,n/d,SP,São Paulo,Sudeste,Brasil,Secom/PR,3545803
+id5301,Jornal,MINUANO,SANTA BÁRBARA DO SUL,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4316709
+id2678,Jornal,A PLATEIA,SANT'ANA DO LIVRAMENTO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Secom/PR,4317103
+id5303,Jornal,CORREIO DO PAMPA,SANT'ANA DO LIVRAMENTO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4317103
+id5738,Jornal,A PLATÉIA,SANT'ANA DO LIVRAMENTO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Central de Diários,4317103
+id5308,Jornal,FOLHA PATRULHENSE,SANTO ANTÔNIO DA PATRULHA,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4317608
+id5309,Jornal,JORNAL DO POVO,SANTO ANTÔNIO DAS MISSÕES,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4317707
+id5310,Jornal,O CELEIRO,SANTO AUGUSTO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4317806
+id5311,Jornal,CORREIO SEMANAL,SANTO CRISTO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4317905
+id5312,Jornal,TRIBUNA LIVRE,SANTO CRISTO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4317905
+id5317,Jornal,PORTAL DE NOTICIAS,SÃO JERÔNIMO,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4318408
+id5332,Jornal,O SERAFINENSE,SERAFINA CORRÊA,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4320404
+id5347,Jornal,FOLHA POPULAR,TEUTÔNIA,n/d,RS,Rio Grande do Sul,Sul,Brasil,Adjori-Rs,4321451
