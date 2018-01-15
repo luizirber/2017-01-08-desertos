@@ -12,3 +12,8 @@ sem necessidade de instalar software localmente.
 Basta clicar nesse botão: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/luizirber/2018-desertos/master?filepath=Usando%20Pandas%20para%20encontrar%20os%20desertos%20de%20not%C3%ADcias%20no%20Brasil.ipynb)
 
 No final do notebook existem instruções de como participar e ajudar a corrigir os erros.
+
+2018-01-15: Adicionei um novo notebook
+[Corrigindo cidades.ipynb](Corrigindo cidades.ipynb)
+com correções para os nomes das cidades e sugestões de como evitar o mesmo problema no futuro.
+Abri um issue no [repositório do Atlas](https://github.com/voltdatalab/Atlas-Analytics/issues/3) para ajudar na atualização desses dados.
